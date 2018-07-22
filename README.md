@@ -4,8 +4,8 @@ vbScript code samples, etc..
 
 ---
 
-References: 
+#### References: 
 
-https://www2.nortridge.com/support/developer/com-api/default.html 
+> https://www2.nortridge.com/support/developer/com-api/default.html 
 
-https://www2.nortridge.com/support/userguide/topics/scripting.html
+> https://www2.nortridge.com/support/userguide/topics/scripting.html
