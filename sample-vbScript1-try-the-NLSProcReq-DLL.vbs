@@ -1,4 +1,5 @@
-'Sample script to try the NLSProcReq DLL
+'Sample script to try the NLSProcReq DLL 
+'using an external vbScript file saved at desktop 
 
 Set NLS = CreateObject("NLSProcReq.ExposedFunctions")
 NLS.ConnectionName = "CN"
