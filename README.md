@@ -16,3 +16,9 @@ vbScript code samples, etc..
 ##### Other References: 
 
 > https://helloacm.com/parentheses-in-vbscript/
+
+
+
+## Samples
+
+* https://github.com/littlstan/configfiles-FFN-NLS-/blob/master/NLSGlobalScript%20PROD.vb
