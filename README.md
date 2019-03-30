@@ -15,12 +15,24 @@ vbScript code samples, etc..
 
 ##### Other References: 
 
+VBScript Fundamentals 
+>https://docs.microsoft.com/en-us/previous-versions//0ad0dkea%28v%3dvs.85%29
+
+#
+
+VBScript Language Reference 
+>https://docs.microsoft.com/en-us/previous-versions//d1wf56tt%28v%3dvs.85%29
+
+#
+
+Parentheses in VBScript
 > https://helloacm.com/parentheses-in-vbscript/
+
 
 
 ---
 
-#
+
 
 #### Samples
 
